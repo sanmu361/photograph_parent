@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/photograph_common/photograph_common.iml" filepath="$PROJECT_DIR$/photograph_common/photograph_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photograph_dao/photograph_dao.iml" filepath="$PROJECT_DIR$/photograph_dao/photograph_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photograph_manager_web/photograph_manager_web.iml" filepath="$PROJECT_DIR$/photograph_manager_web/photograph_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photograph_parent.iml" filepath="$PROJECT_DIR$/photograph_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photograph_pojo/photograph_pojo.iml" filepath="$PROJECT_DIR$/photograph_pojo/photograph_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photograph_sellergoods_interface/photograph_sellergoods_interface.iml" filepath="$PROJECT_DIR$/photograph_sellergoods_interface/photograph_sellergoods_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photograph_sellergoods_service/photograph_sellergoods_service.iml" filepath="$PROJECT_DIR$/photograph_sellergoods_service/photograph_sellergoods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photograph_shop_web/photograph_shop_web.iml" filepath="$PROJECT_DIR$/photograph_shop_web/photograph_shop_web.iml" />
+    </modules>
+  </component>
+</project>

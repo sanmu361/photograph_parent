@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="photograph_managerweb:war exploded">
+    <output-path>$PROJECT_DIR$/photograph_managerweb/target/photograph_manager-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="photograph_manager_web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/photograph_managerweb/target/photograph_manager-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="photograph_manager_web/web/Web" />
+    </root>
+  </artifact>
+</component>

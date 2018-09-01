@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="photograph_common" />
+        <module name="photograph_dao" />
+        <module name="photograph_manager_web" />
+        <module name="photograph_managerweb" />
+        <module name="photograph_pojo" />
+        <module name="photograph_sellergoods_interface" />
+        <module name="photograph_sellergoods_service" />
+        <module name="photograph_shop_web" />
+        <module name="photographparent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="photograph_common" target="1.8" />
+      <module name="photograph_dao" target="1.8" />
+      <module name="photograph_manager_web" target="1.8" />
+      <module name="photograph_managerweb" target="1.8" />
+      <module name="photograph_parent" target="1.8" />
+      <module name="photograph_pojo" target="1.8" />
+      <module name="photograph_search_interface" target="1.8" />
+      <module name="photograph_sellergoods_interface" target="1.8" />
+      <module name="photograph_sellergoods_service" target="1.8" />
+      <module name="photograph_shop_web" target="1.8" />
+      <module name="photographparent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
